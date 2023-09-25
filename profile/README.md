@@ -130,11 +130,11 @@ change? Here's the place to explain them.
 
 Further paragraphs come after blank lines. 
 
-	- Bullet points are okay, too 
+  - Bullet points are okay, too 
 	
-	- Typically a hyphen or asterisk is used for the bullet, 
-      preceded by a single space, with blank lines in between, but conventions 
-      vary here 
+  - Typically a hyphen or asterisk is used for the bullet,
+    preceded by a single space, with blank lines in between, but conventions 
+    vary here 
       
 If you use an issue tracker, put references to them at the bottom, like this:
 

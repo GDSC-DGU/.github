@@ -1,4 +1,8 @@
 <img src="https://github.com/nanami-tomoe/Computer_Algorithms_and_Laboratory/assets/123773613/5aba7c37-9292-40b5-8453-c0a1849756a5">
+<br>
+<br>
+<br>
+<p align="center"><a href="https://gdsc.community.dev/dongguk-university/"><img src= "https://img.shields.io/badge/GDSC--DGU-f9ab00?style=for-the-badge&logo=GDSC--DGU&logoColor=white"></a></p>
 
 ### 목차
 

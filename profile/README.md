@@ -6,7 +6,7 @@
 [2. 우리는 이런 가치를 지향해요](#우리는-이런-가치를-지향해요)<br>
 [3. 우리는 이런 활동을 해요](#우리는-이런-활동을-해요)<br>
 [3. 일정](#일정)<br>
-[4. git 커밋컨벤션](https://github.com/GDSC-DGU/.github/blob/main/profile/README.md)
+[4. git 커밋컨벤션](https://github.com/GDSC-DGU/.github/blob/main/profile/MAIN.md)
 
 # GDSC DGU를 소개합니다
 

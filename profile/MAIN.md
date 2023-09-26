@@ -1,4 +1,7 @@
+<img src="https://github.com/nanami-tomoe/Computer_Algorithms_and_Laboratory/assets/123773613/5aba7c37-9292-40b5-8453-c0a1849756a5">
+
 ### 목차
+
 [1. GDSC DGU를 소개합니다](#GDSC-DGU를-소개합니다)<br>
 [2. 우리는 이런 가치를 지향해요](#우리는-이런-가치를-지향해요)<br>
 [3. 우리는 이런 활동을 해요](#우리는-이런-활동을-해요)<br>

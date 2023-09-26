@@ -101,4 +101,4 @@
 
 > GDSC_DGU 1기의 원활한 협업을 위해 권장하는 git 커밋컨벤션 설정입니다.<br>
 > Udacity Git Commit Message Style Guide를 주로 참고했습니다.<br>
-> 자세한 설명은 [이곳](https://github.com/GDSC-DGU/.github/blob/main/profile/README.md)에 작성했으므로 참고 바랍니다.
+> 자세한 설명은 [이곳](https://github.com/GDSC-DGU/.github/blob/main/profile/COMMIT.md)에 작성했으므로 참고 바랍니다.

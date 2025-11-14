@@ -2,8 +2,6 @@
 
 <br>
 <br>
-<br>
-<p align="center"><a href="https://gdsc.community.dev/dongguk-university/"><img src= "https://img.shields.io/badge/GDG on Campus--DGU-f9ab00?style=for-the-badge&logo=GDG on Campus--DGU&logoColor=white"></a></p>
 
 ### 목차
 
